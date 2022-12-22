@@ -1,797 +1,377 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UpdateTime>2022-12-14T10:04:02.8974648-05:00</UpdateTime>
+  <UpdateTime>2022-10-19T17:12:35.7486190-04:00</UpdateTime>
   <Standins>
-    <GCSCMStandin>
-      <FileName>OldVersions\SnowFlake Ornament (1).0002.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>3426816</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-25T21:00:24.7310000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\TaKa.ipj.bak</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>9694</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-25T21:08:24.8390043+00:00</LastUpdated>
-    </GCSCMStandin>
     <GCSCMStandin>
       <FileName>684.3mf</FileName>
       <SHA1>066999757E70BF839110115759EEEECD7E4BB1A0</SHA1>
       <FileSize>123977</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5377607+00:00</LastUpdated>
+      <LastUpdated>2022-09-25T16:51:14.5580944+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>684.f3d</FileName>
       <SHA1>AB6496C80810922DA3ED14FE6A2AA58B939962E8</SHA1>
       <FileSize>53287</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5427712+00:00</LastUpdated>
+      <LastUpdated>2022-09-25T16:51:38.8606935+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>ArmMount1.3mf</FileName>
       <SHA1>3FA5FD38F16276C1C94662BC0A79125CC19FCF16</SHA1>
       <FileSize>522718</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5467555+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T15:35:51.8343053+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>ArmMount1.f3d</FileName>
       <SHA1>C97F9CE16E490FD24213E923DB2EB9207BF841FA</SHA1>
       <FileSize>524034</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5537655+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T15:35:27.2398376+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>b175_19.3mf</FileName>
       <SHA1>B062185236DC29F0813DEEE722A63B7050FA45E4</SHA1>
       <FileSize>2107179</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6032865+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-22-1500 v4.f3z</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>10766886</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-11T16:27:23.6690734+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-22-1500.f3z</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>8998148</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-11T16:06:57.6918041+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-22.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>437137</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-01T18:10:53.6417045+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-22_Motor.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>437040</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-11T16:06:22.4672277+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-23Pulley.3mf</FileName>
-      <SHA1>29AE4F9098382DE26ECE8D5E20576DF1DB5208E8</SHA1>
-      <FileSize>799520</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-03T21:00:05.6392151+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-29-1750.f3z</FileName>
-      <SHA1>CFAE188CD14946BD11633816F17B37E1D8F8B7DD</SHA1>
-      <FileSize>9899530</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5596621+00:00</LastUpdated>
+      <LastUpdated>2022-10-11T18:40:13.1419075+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>b19t_Pulley.3mf</FileName>
       <SHA1>D25EA88688A875045B76F40907525A897F24DE7F</SHA1>
       <FileSize>443593</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5907209+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>b19_23_1500.f3z</FileName>
-      <SHA1>17E2726BC278A136873FE0F4127A3D4C653A6DCE</SHA1>
-      <FileSize>11498068</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-03T20:43:36.4357493+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>b22-19Axle.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>513517</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-01T18:10:42.3425026+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B22-19_605.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>1050132</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-11T16:25:03.3629114+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B22-19_Bushng.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>1031738</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-11T16:25:19.5928192+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>b23-19.3mf</FileName>
-      <SHA1>88E0CD075DF432F794C10A69689E3A31CA9F12BF</SHA1>
-      <FileSize>717509</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-03T20:39:57.1857881+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B29-19_Pulley.3mf</FileName>
-      <SHA1>C74A1FB4C253B38CF47022AB25403A3C833C1533</SHA1>
-      <FileSize>782956</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5967173+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>BaseBottom.3mf</FileName>
-      <SHA1>2E0CD100C077C507FB75ABC0BE5CC871FC61B42C</SHA1>
-      <FileSize>408184</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6133677+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>BaseTop.3mf</FileName>
-      <SHA1>602CA8385AC7885E2F8879BB45B63AFDD6BDBA16</SHA1>
-      <FileSize>620843</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6193777+00:00</LastUpdated>
+      <LastUpdated>2022-10-14T22:49:38.7423227+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>carriage.3mf</FileName>
       <SHA1>3C52AB07C3FCA0593F9EC21E6E45AF5395D24853</SHA1>
       <FileSize>778928</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6254914+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T17:34:49.0704142+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>carriage.f3d</FileName>
       <SHA1>B75311C4DFAB15E1DF0B8EE8703D00B483268165</SHA1>
       <FileSize>928674</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6323822+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T17:35:06.5457767+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>CenterRail3.3mf</FileName>
       <SHA1>09956016CFD85852577AED42C138E96FD3CCD059</SHA1>
       <FileSize>298767</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6399783+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw.f3d</FileName>
-      <SHA1>34809DECC0F65EA6ACA5131AB1D80E0B3077C7CF</SHA1>
-      <FileSize>61701</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6449756+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw_Bottom_2nd_Print_v15 v1.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>147330</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-24T17:15:31.4151629+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw_Test.3mf</FileName>
-      <SHA1>BD30F042D37F933484D9B8F9F54FD815B10C424E</SHA1>
-      <FileSize>121191</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-03T23:16:56.7548708+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw_test.f3d</FileName>
-      <SHA1>D26F87B62F3570A8BDA0F4097949089A293D73B5</SHA1>
-      <FileSize>166619</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-03T23:16:27.8448418+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw_Top_2nd_Print_v3 v1.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>145283</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-24T17:15:40.9415947+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw_With_Brackets_Bottom_v1.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>152206</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-29T18:38:51.4880631+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>config.ini</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>9819</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-11T23:22:52.8736810+00:00</LastUpdated>
+      <LastUpdated>2022-09-28T21:05:22.5877057+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>CPBpttom.3mf</FileName>
-      <SHA1>C18388597EBB5CD9AB40C8326DE5B5C9CC361AC2</SHA1>
-      <FileSize>778670</FileSize>
+      <SHA1>0C3B6D291DD6CEEF4B112472623919165C67BD56</SHA1>
+      <FileSize>321441</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-08T17:15:50.4889959+00:00</LastUpdated>
+      <LastUpdated>2022-10-06T16:53:03.5591976+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>CPTop.3mf</FileName>
-      <SHA1>A7C717B6CD478DC1C199013C7E3E4E4E65DBE094</SHA1>
-      <FileSize>306722</FileSize>
+      <SHA1>74491E87E99E655A38C0C950EA258CED4CF8647F</SHA1>
+      <FileSize>306745</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-08T16:22:43.7157424+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>CraneMotorHolder.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>322283</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-06T19:26:11.2540636+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>CraneMotorHolder.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>268681</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-02T19:29:57.2595531+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>FoldingArm_2_Bottom.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>768173</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-30T21:18:01.8398366+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>FoldingArm_2_Bottom.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>655729</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-30T21:17:41.8735055+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>FoldingArm_2_Middle.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>115502</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-02T22:04:09.3423567+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>FoldingArm_2_Middle.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>226613</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-02T22:04:46.5676811+00:00</LastUpdated>
+      <LastUpdated>2022-10-06T16:53:36.8177168+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR2_Front_Right.3mf</FileName>
       <SHA1>AD5D3F8E384E7D7D1C55FBE12AB7DC7428F7D082</SHA1>
       <FileSize>827662</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7379243+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T00:33:27.1682759+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FRController.3mf</FileName>
       <SHA1>C7C5AC71C8CCAB32E3681129264380D883AAA494</SHA1>
       <FileSize>528788</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7452087+00:00</LastUpdated>
+      <LastUpdated>2022-10-10T20:23:31.7740185+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FRController.f3d</FileName>
       <SHA1>7988A6C7E6B9792C4884189A01B2D5EEAEA3BC97</SHA1>
       <FileSize>334229</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7511946+00:00</LastUpdated>
+      <LastUpdated>2022-10-10T20:23:13.9732445+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FRNeverestCLassic.3mf</FileName>
       <SHA1>AB4EDB8533CE15C002C78E68244644076E36EA38</SHA1>
       <FileSize>469390</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7562051+00:00</LastUpdated>
+      <LastUpdated>2022-10-10T14:41:37.1530814+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FRNeverestCLassic.f3d</FileName>
       <SHA1>8C1FF7488251686FB742E36EFF00924AEA1B640E</SHA1>
       <FileSize>275501</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7621990+00:00</LastUpdated>
+      <LastUpdated>2022-10-10T14:40:44.2343109+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Front_Center.3mf</FileName>
       <SHA1>B8DF62E56E636D91F5C84173EA06D3F0CB483196</SHA1>
       <FileSize>645131</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7671958+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T12:42:46.0978409+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Front_Center.f3d</FileName>
       <SHA1>64EC0362895B3357C9B0C7EEA04CAC92A19DA69C</SHA1>
       <FileSize>232250</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7736259+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T12:43:27.9754561+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Front_Left.3mf</FileName>
       <SHA1>618CBF66FC8CE7A0D6E2AEC0DE533652B9648EE9</SHA1>
       <FileSize>1046695</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7790508+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T16:36:44.0738004+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Front_Left.f3d</FileName>
       <SHA1>98ED4BBEA3A1FA897D63EFEB79B711DB2E319475</SHA1>
       <FileSize>717839</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7864183+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T16:37:01.0220473+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Front_Right.f3d</FileName>
       <SHA1>550630F8B792345C88E9994D3A98C0049B11B750</SHA1>
       <FileSize>596279</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7932296+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T00:31:00.4499323+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_Crane.3mf</FileName>
       <SHA1>25B942FE1B7EC2BE5AE3A01B73F921D89635F9AA</SHA1>
       <FileSize>1017823</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6599660+00:00</LastUpdated>
+      <LastUpdated>2022-10-16T18:47:37.5063180+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_Crane.f3d</FileName>
       <SHA1>C2AD4B94870B5BEF1D5C866B707611CC3B63FD33</SHA1>
       <FileSize>1374644</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6680819+00:00</LastUpdated>
+      <LastUpdated>2022-10-16T18:47:15.9538117+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_Rptation.3mf</FileName>
       <SHA1>BC8246B2D62B23D7E06C720C37F5AF1229D2AF8C</SHA1>
       <FileSize>859873</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6764949+00:00</LastUpdated>
+      <LastUpdated>2022-10-14T17:02:51.3775545+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_Rptation.f3d</FileName>
       <SHA1>CF5F492C0CAA808DFFACA785826B545E50668ABC</SHA1>
       <FileSize>438597</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6834833+00:00</LastUpdated>
+      <LastUpdated>2022-10-14T17:02:19.2877425+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_XDrive2 v2.f3d</FileName>
       <SHA1>EE31B30E1380FF8544ADDE4358FF75A8923DA2B6</SHA1>
       <FileSize>4026334</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.6884773+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T00:31:57.8227668+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_XDrive2.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>5662450</FileSize>
+      <SHA1>D41559796A626491C35692B4AA6FA93FCF08FCEF</SHA1>
+      <FileSize>5454019</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-12-11T16:34:38.0012399+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T19:58:03.0175951+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_XDriveCemter.3mf</FileName>
       <SHA1>14820AF65C28A13327D32FDC5E8132C63127FEEF</SHA1>
       <FileSize>651606</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7259308+00:00</LastUpdated>
+      <LastUpdated>2022-10-10T19:23:46.1119599+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FR_XDriveCemter.f3d</FileName>
       <SHA1>F6DC4B9F3677EBB8677DA9173ED87EE27AA9C361</SHA1>
       <FileSize>694881</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.7319273+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>GT2-40.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>134972</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-02T18:35:36.2637445+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>GT2-40Rotate.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>245189</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-02T21:58:46.2136001+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Gt2-40Rotation v1.f3z</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>612976</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-02T18:35:21.7906209+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>GT2-40WithMount.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>382273</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-06T18:42:31.4613926+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>GT2-40_MountTop.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>95047</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-06T18:42:55.6554274+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>GT2-40_WithMount.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>1135544</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-08T15:43:18.5902419+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Gt2End.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>280396</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-28T22:21:52.8514112+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Gt2End.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>193155</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-28T22:21:35.0378503+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>GT2End_2.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>176346</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-08T16:30:51.0676377+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Gt2End_2.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>269025</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-08T16:31:04.4862927+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>GT2End_3.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>176559</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-08T16:25:53.6219521+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Gt2End_3.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>204589</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-08T16:29:48.5355815+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Microswitch Mount.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>371006</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-29T23:55:04.9688990+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Microswitch Mount.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>122232</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-29T23:55:30.9558790+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniHubSpacer3mm.3mf</FileName>
-      <SHA1>56F0923B98FB3999E3B849B7A43AE21C0A292B7D</SHA1>
-      <FileSize>122335</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T18:57:48.0733978+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniHubSpacer3mm.f3d</FileName>
-      <SHA1>180345C381DA9E53F51E511B2836EE5433F6C226</SHA1>
-      <FileSize>76334</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T18:58:20.3032536+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniWheel_D_M4 v1.f3d</FileName>
-      <SHA1>1B0C9598C136CC0F6BC2C8C0E6D4567071C5FB9B</SHA1>
-      <FileSize>330437</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T18:47:03.3821599+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniWheel_D_M4.3mf</FileName>
-      <SHA1>D5630BB478CAFB41C1DBE8294A8D29DB8B633212</SHA1>
-      <FileSize>353585</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T18:47:29.7633973+00:00</LastUpdated>
+      <LastUpdated>2022-10-10T19:24:29.4787002+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OmniWheel_D_Mount.3mf</FileName>
       <SHA1>E306BE2BB8CE56526E6EAD18B49826BAB2D3C871</SHA1>
       <FileSize>388153</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3347331+00:00</LastUpdated>
+      <LastUpdated>2022-10-11T22:00:09.8580827+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OmniWheel_D_Mount.f3d</FileName>
       <SHA1>DE203254B3F67A9B651F218BD845F454709A879F</SHA1>
       <FileSize>207899</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3407479+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>P19-28_D.3mf</FileName>
-      <SHA1>7A40AAB3D1EFF6014EAB112D64D878040CC2E17C</SHA1>
-      <FileSize>778773</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3447454+00:00</LastUpdated>
+      <LastUpdated>2022-10-11T22:00:28.2920530+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rail525-170.3mf</FileName>
       <SHA1>9A1B73329633EDDAB869C8750521361D49C063F1</SHA1>
       <FileSize>111741</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3517364+00:00</LastUpdated>
+      <LastUpdated>2022-09-26T20:08:13.8318726+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rail525-170.f3d</FileName>
       <SHA1>DA1AC9E787E63BFD2730D5B2BF43BF57434C2AF7</SHA1>
       <FileSize>94035</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3567199+00:00</LastUpdated>
+      <LastUpdated>2022-09-26T20:07:56.3810844+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>railConnector.3mf</FileName>
       <SHA1>9F018DACB9DF22D02A9BB3AD05B62640E6834254</SHA1>
       <FileSize>368193</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3617171+00:00</LastUpdated>
+      <LastUpdated>2022-09-26T20:44:53.3655801+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>railConnector.f3d</FileName>
       <SHA1>3DE27142B66C0A1C16AACC5B38371A2BFE520615</SHA1>
       <FileSize>112651</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3669384+00:00</LastUpdated>
+      <LastUpdated>2022-09-26T20:45:19.2860651+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>RailExtend4-3-330 .f3d</FileName>
       <SHA1>FA53075405307D1A9B600919689E0B5806EC104F</SHA1>
       <FileSize>3369104</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3719335+00:00</LastUpdated>
+      <LastUpdated>2022-10-05T19:13:38.3048909+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>RailExtend4-3-330 v1.f3d</FileName>
       <SHA1>DDDEB2C80FF5120796FC28E2D577B26BF7119B3F</SHA1>
       <FileSize>2408977</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3854193+00:00</LastUpdated>
+      <LastUpdated>2022-10-04T14:31:12.0799731+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>RailExtend4-3-330 v4.f3d</FileName>
       <SHA1>15943530A448182F5E919041C7D43B829072DFEE</SHA1>
       <FileSize>2408399</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.3965082+00:00</LastUpdated>
+      <LastUpdated>2022-10-03T20:39:31.0758791+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>RailExtend4-3-330.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>11376085</FileSize>
+      <SHA1>74D369C2D0457CF38F533529EEF9B0E305C4654E</SHA1>
+      <FileSize>8943569</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-18T20:21:54.3868501+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>RailExtend4V4.f3d</FileName>
-      <SHA1>D3870455EF7923E5E97E6F92E599EF7EBE9F80E3</SHA1>
-      <FileSize>4191900</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4359485+00:00</LastUpdated>
+      <LastUpdated>2022-10-07T23:05:02.1193861+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rear_Center.3mf</FileName>
       <SHA1>40B716C7EEB11FA3597DDA23C73F8396123F476C</SHA1>
       <FileSize>664961</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4531629+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T17:02:22.8132796+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rear_Center.f3d</FileName>
       <SHA1>5B90F68782BEE67D277D54DAD2E89650906CA530</SHA1>
       <FileSize>224963</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4611591+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T17:02:44.3134757+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rear_Left.3mf</FileName>
       <SHA1>66A29E3BC4D180A50DDC0BAEC3668C133F056D6D</SHA1>
       <FileSize>573465</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4651565+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T18:43:25.8878908+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rear_Left.f3d</FileName>
       <SHA1>740612B27208669D272B2B14BBA3A608E7AC46A4</SHA1>
       <FileSize>394106</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4723667+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T18:43:50.4982387+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rear_Right.3mf</FileName>
       <SHA1>09DD18189E64256D534AA0313D6828F15EDBC79A</SHA1>
       <FileSize>1025282</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4781541+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T19:57:14.0539413+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Rear_Right.f3d</FileName>
       <SHA1>2F6802FCD544D04B450E66D19542EE451CB756AB</SHA1>
       <FileSize>659935</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4855006+00:00</LastUpdated>
+      <LastUpdated>2022-10-19T19:57:32.1631612+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Roller684x12 v1.3mf</FileName>
       <SHA1>7B1206B0ECD4D4B1FD6FE888725EADB9625115BF</SHA1>
       <FileSize>230509</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4924626+00:00</LastUpdated>
+      <LastUpdated>2022-09-25T18:43:50.3787892+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Roller684x12.f3d</FileName>
       <SHA1>6B17EEDEEC2D923586023ACF541E75221E008B01</SHA1>
       <FileSize>75072</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.4974624+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>RotationHolder.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>84051</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-11T22:29:28.6090407+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>SnowFlake Ornament (1).ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>3571712</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-25T22:52:17.3310000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>SnowFlake Ornament (1).stl</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>331984</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-25T21:19:59.6113877+00:00</LastUpdated>
+      <LastUpdated>2022-09-25T18:43:18.7913485+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>SpacerM5x4.3mf</FileName>
       <SHA1>0F6622ABF1A8883428458A72ACB46543438A90F9</SHA1>
       <FileSize>210258</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5024595+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T14:03:33.2257950+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>SpacerM5x4.f3d</FileName>
       <SHA1>4036394C1C183DF5BEBD070280C7AC954BB70885</SHA1>
       <FileSize>59176</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5074429+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T14:03:50.9008779+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Stage1Bott.3mf</FileName>
-      <SHA1>A37B228687B596A368511276EBE46CFB11F7F2D4</SHA1>
-      <FileSize>633889</FileSize>
+      <SHA1>D9CC42C13E15190F2CAE183E1637E9F5CA0C5A6E</SHA1>
+      <FileSize>619608</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-08T16:23:17.3639211+00:00</LastUpdated>
+      <LastUpdated>2022-10-06T16:53:49.3173226+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Stage1Top.3mf</FileName>
-      <SHA1>73448617E2F59C7623A939D0128AF02998128DEC</SHA1>
-      <FileSize>413007</FileSize>
+      <SHA1>C694B61A0A6E80493B1CD929C3CECD9D2B75986F</SHA1>
+      <FileSize>413011</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-08T16:23:48.3211936+00:00</LastUpdated>
+      <LastUpdated>2022-10-06T16:54:08.6595236+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Stage1_End.3mf</FileName>
       <SHA1>8C77E872DD304A1E2071969B5BD2EF37E302BCA1</SHA1>
       <FileSize>520822</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5114409+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T22:58:02.7090603+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Stage1_End.f3d</FileName>
       <SHA1>0906E531BF3E651B663F189AC0F229D555D71A28</SHA1>
       <FileSize>932952</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-31T19:02:20.5174376+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Stage2_Bott.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>304256</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-18T20:20:55.2885110+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Stage2_top.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>258753</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-18T20:21:19.3517524+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>TacaTest v1.stl</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>78384</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-28T19:57:30.1178252+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>TacaTest.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>123634</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-28T19:49:57.6099703+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>TacaTest.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>320980</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-28T19:49:33.5607256+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>TaKa.ipj</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>9694</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-25T21:08:24.8349798+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>WheelSpacer.3mf</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>88854</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-14T15:03:41.8412454+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>WheelSpacer.f3d</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>61934</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-12-14T15:04:01.9087792+00:00</LastUpdated>
+      <LastUpdated>2022-09-27T22:57:43.8567550+00:00</LastUpdated>
     </GCSCMStandin>
   </Standins>
   <Version>1</Version>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UpdateTime>2022-12-14T15:03:42.7893532+00:00</UpdateTime>
+  <UpdateTime>2022-10-19T21:12:33.2428251+00:00</UpdateTime>
   <Standins>
     <GCSCMStandin>
       <FileName>684.3mf</FileName>
@@ -53,15 +53,15 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>CPBpttom.3mf</FileName>
-      <SHA1>C18388597EBB5CD9AB40C8326DE5B5C9CC361AC2</SHA1>
-      <FileSize>778670</FileSize>
+      <SHA1>0C3B6D291DD6CEEF4B112472623919165C67BD56</SHA1>
+      <FileSize>321441</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>CPTop.3mf</FileName>
-      <SHA1>A7C717B6CD478DC1C199013C7E3E4E4E65DBE094</SHA1>
-      <FileSize>306722</FileSize>
+      <SHA1>74491E87E99E655A38C0C950EA258CED4CF8647F</SHA1>
+      <FileSize>306745</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -151,15 +151,15 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Stage1Bott.3mf</FileName>
-      <SHA1>A37B228687B596A368511276EBE46CFB11F7F2D4</SHA1>
-      <FileSize>633889</FileSize>
+      <SHA1>D9CC42C13E15190F2CAE183E1637E9F5CA0C5A6E</SHA1>
+      <FileSize>619608</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Stage1Top.3mf</FileName>
-      <SHA1>73448617E2F59C7623A939D0128AF02998128DEC</SHA1>
-      <FileSize>413007</FileSize>
+      <SHA1>C694B61A0A6E80493B1CD929C3CECD9D2B75986F</SHA1>
+      <FileSize>413011</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -370,118 +370,6 @@
       <FileName>Rear_Right.f3d</FileName>
       <SHA1>2F6802FCD544D04B450E66D19542EE451CB756AB</SHA1>
       <FileSize>659935</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-29-1750.f3z</FileName>
-      <SHA1>CFAE188CD14946BD11633816F17B37E1D8F8B7DD</SHA1>
-      <FileSize>9899530</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B29-19_Pulley.3mf</FileName>
-      <SHA1>C74A1FB4C253B38CF47022AB25403A3C833C1533</SHA1>
-      <FileSize>782956</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>BaseBottom.3mf</FileName>
-      <SHA1>2E0CD100C077C507FB75ABC0BE5CC871FC61B42C</SHA1>
-      <FileSize>408184</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>BaseTop.3mf</FileName>
-      <SHA1>602CA8385AC7885E2F8879BB45B63AFDD6BDBA16</SHA1>
-      <FileSize>620843</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw.f3d</FileName>
-      <SHA1>34809DECC0F65EA6ACA5131AB1D80E0B3077C7CF</SHA1>
-      <FileSize>61701</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>P19-28_D.3mf</FileName>
-      <SHA1>7A40AAB3D1EFF6014EAB112D64D878040CC2E17C</SHA1>
-      <FileSize>778773</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>RailExtend4V4.f3d</FileName>
-      <SHA1>D3870455EF7923E5E97E6F92E599EF7EBE9F80E3</SHA1>
-      <FileSize>4191900</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>B19-23Pulley.3mf</FileName>
-      <SHA1>29AE4F9098382DE26ECE8D5E20576DF1DB5208E8</SHA1>
-      <FileSize>799520</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>b19_23_1500.f3z</FileName>
-      <SHA1>17E2726BC278A136873FE0F4127A3D4C653A6DCE</SHA1>
-      <FileSize>11498068</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>b23-19.3mf</FileName>
-      <SHA1>88E0CD075DF432F794C10A69689E3A31CA9F12BF</SHA1>
-      <FileSize>717509</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw_Test.3mf</FileName>
-      <SHA1>BD30F042D37F933484D9B8F9F54FD815B10C424E</SHA1>
-      <FileSize>121191</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>Claw_test.f3d</FileName>
-      <SHA1>D26F87B62F3570A8BDA0F4097949089A293D73B5</SHA1>
-      <FileSize>166619</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniHubSpacer3mm.3mf</FileName>
-      <SHA1>56F0923B98FB3999E3B849B7A43AE21C0A292B7D</SHA1>
-      <FileSize>122335</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniHubSpacer3mm.f3d</FileName>
-      <SHA1>180345C381DA9E53F51E511B2836EE5433F6C226</SHA1>
-      <FileSize>76334</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniWheel_D_M4 v1.f3d</FileName>
-      <SHA1>1B0C9598C136CC0F6BC2C8C0E6D4567071C5FB9B</SHA1>
-      <FileSize>330437</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OmniWheel_D_M4.3mf</FileName>
-      <SHA1>D5630BB478CAFB41C1DBE8294A8D29DB8B633212</SHA1>
-      <FileSize>353585</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
