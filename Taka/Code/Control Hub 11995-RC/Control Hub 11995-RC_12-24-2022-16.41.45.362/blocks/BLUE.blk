@@ -1,0 +1,111 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+<block type="procedures_defnoreturn" id="WtpyD@tEu+EoY=P9iY,D" deletable="false" editable="false" x="50" y="50">
+<field name="NAME">runOpMode</field>
+<comment pinned="true" h="32" w="532.1041259765625">This function is executed when this Op Mode is selected from the Driver Station.</comment>
+<statement name="STACK">
+<block type="comment" id="Lc#BFtj*NTB48YL;eBl.">
+<field name="COMMENT">Put initialization blocks here.</field>
+<next>
+<block type="dcMotor_setProperty_Direction" id="l10In}-gB]Zt|l$e!os,">
+<field name="IDENTIFIER">frontrightAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"frontright"}</data>
+<value name="VALUE">
+<shadow type="dcMotor_typedEnum_direction" id="nOP~ZTZbt(4MXMz#bdER">
+<field name="DIRECTION">REVERSE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setProperty_Direction" id="go~TSOEoTN/CpT!X.3aT">
+<field name="IDENTIFIER">backrightAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"backright"}</data>
+<value name="VALUE">
+<shadow type="dcMotor_typedEnum_direction" id="/J=bfFahc8dKmNN5b)fo">
+<field name="DIRECTION">REVERSE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setProperty_Direction" id="V?gt%gMIJuC8oq*A9_%x">
+<field name="IDENTIFIER">duckAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"duck"}</data>
+<value name="VALUE">
+<shadow type="dcMotor_typedEnum_direction" id="?nws5Da7*%UAYGRr87a=">
+<field name="DIRECTION">REVERSE</field>
+</shadow>
+</value>
+<next>
+<block type="linearOpMode_waitForStart" id=":`$wN_ci`O;o6P0~.(+g">
+<next>
+<block type="controls_if" id="}Q?5mbxSO8Di;i!__6[y">
+<value name="IF0">
+<block type="linearOpMode_opModeIsActive" id=")o%YFX/#9kvv^sgXr4~5"/>
+</value>
+<statement name="DO0">
+<block type="comment" id="(rU-p_T_/B|vExcs}liL">
+<field name="COMMENT">Put run blocks here.</field>
+<next>
+<block type="dcMotor_setDualProperty_Number" id="f,@HGKNbbmLMd|Q.t:c=">
+<field name="PROP">Power</field>
+<field name="IDENTIFIER1">frontrightAsDcMotor</field>
+<field name="IDENTIFIER2">backrightAsDcMotor</field>
+<data>{"IDENTIFIER1":"frontright","IDENTIFIER2":"backright"}</data>
+<value name="VALUE1">
+<shadow type="math_number" id="K[RwW*^nx[0_+6LO{C_#">
+<field name="NUM">-0.65</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="math_number" id="}U|bp=5)I77MLm.W.rbm">
+<field name="NUM">0.65</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_Number" id="Xhi%ZzGh7bD*7gj;!J3:">
+<field name="PROP">Power</field>
+<field name="IDENTIFIER1">frontleftAsDcMotor</field>
+<field name="IDENTIFIER2">backleftAsDcMotor</field>
+<data>{"IDENTIFIER1":"frontleft","IDENTIFIER2":"backleft"}</data>
+<value name="VALUE1">
+<shadow type="math_number" id="Y.|P*Z]@Ql^7Y$B1RSwy">
+<field name="NUM">0.65</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="math_number" id="33Nk,~xlew1NC3=8E)hh">
+<field name="NUM">-0.65</field>
+</shadow>
+</value>
+<next>
+<block type="linearOpMode_sleep_Number" id="iK=|E3/=QrTNBUBS_WNx">
+<value name="MILLISECONDS">
+<shadow type="math_number" id="l/!HQr:#o~XDdE=6H(fK">
+<field name="NUM">1000</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_Number" id=";6GN_2c6.lqtutuE/Z4`">
+<field name="PROP">Power</field>
+<field name="IDENTIFIER1">frontrightAsDcMotor</field>
+<field name="IDENTIFIER2">backrightAsDcMotor</field>
+<data>{"IDENTIFIER1":"frontright","IDENTIFIER2":"backright"}</data>
+<value name="VALUE1">
+<shadow type="math_number" id="lIHeb6:Te!*|BhV3bRI=">
+<field name="NUM">0</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="math_number" id="qARRyWUJ(glpE:(uc9D{">
+<field name="NUM">0</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_Number" id="jf!-xWD3JC|iM#`GuYWF">
+<field name="PROP">Power</field>
+<field name="IDENTIFIER1">frontleftAsDcMotor</field>
+<field name="IDENTIFIER2">backleftAsDcMotor</field>
+<data>{"IDENTIFIER1":"frontleft","IDENTIFIER2":"backleft"}</data>
+<value name="VALUE1">
+<shadow type="math_number" id="g#[yM).iyKsPQMZ[so2S">
+<field name
